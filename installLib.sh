@@ -1,0 +1,10 @@
+pip install requests
+pip3 install requests
+pip install webbrowser
+pip3 install webbrowser
+pip install re
+pip3 install re
+pip install os
+pip3 install os
+pip install sys
+pip3 install sys
