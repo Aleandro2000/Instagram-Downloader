@@ -72,4 +72,4 @@ elif len(sys.argv)==2:
         print('\nMay not recognize the media in the provided URL.')
 
 else:
-    print("*BAD SINTAX!*")
+    print("ERROR: BAD SINTAX")
